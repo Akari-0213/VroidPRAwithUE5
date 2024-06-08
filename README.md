@@ -1,3 +1,4 @@
 # VroidPRA
 
 Developed with Unreal Engine 5
+VRoidを搭載し、サードパーソンで使えるようにリターゲットし、さらにこのVroidサードパーソンでスケルトンの異なるmixamoのアニメーションを使えるようにリターゲットを作り、アニメーションを追加しました。
